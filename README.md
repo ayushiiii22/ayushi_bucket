@@ -1,2 +1,1 @@
-# ayushi_bucket
-# static hosting
+cloud computing assignments
